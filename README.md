@@ -1,1 +1,2 @@
-# elisp-projects
+# Elisp
+Collection of various Elisp projects
